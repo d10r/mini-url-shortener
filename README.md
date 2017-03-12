@@ -55,3 +55,4 @@ In order to use a key, add it as http header field `x-key`. Example:
 
 * Non-destructive registration option (add only if not exists)
 * DELETE option
+* option to have a key randomly created
